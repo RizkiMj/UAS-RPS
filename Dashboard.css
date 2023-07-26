@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d8bfd8;
+}
+.bg-body-tertiary {
+  background-color: #d8bfd8;
+}
+
+.card {
+  width: 100%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.btn-primary {
+  background-color: purple;
+  border-color: purple;
+}
+
+.btn-primary:hover {
+  background-color: #800080;
+  border-color: #800080;
+}
